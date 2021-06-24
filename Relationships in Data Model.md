@@ -13,7 +13,7 @@ Relationships exist within a Data Model -- one that we explicitly create, or one
 _Types of Relationships:_
  * One to One
  * One to Many
-  Note: Many-to-many relationships are not supported in a Data Model.
+ Note: Many-to-many relationships are not supported in a Data Model.
   
   _Relationships and Performance:_
   After any relationship has been created. Processing can take some time, depending on the amount of data and the complexity of the relationships.
